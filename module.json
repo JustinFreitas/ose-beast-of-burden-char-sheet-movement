@@ -1,0 +1,15 @@
+{
+    "name": "ose-beast-of-burden-char-sheet-movement",
+    "title": "OSE Beast of Burden Character Sheet Movement Updater",
+    "version": "1.0.0",
+    "description": "Updates the Exploration Movement and Encounter Movement for character sheets whose Class is a beast of burden (i.e. Riding Horse or Mule).",
+    "license": "MIT",
+    "compatibility": {
+        "minimum": "12",
+        "verified": "12"
+    },
+    "scripts": [
+        "scripts/ose-beast-of-burden-char-sheet-movement.js"
+    ],
+    "system": ["ose"]
+}
