@@ -4,6 +4,11 @@
     "version": "1.0.0",
     "description": "A Foundry VTT module to update the OSE system character sheet for Overland Movement, Exploration Movement, and Encounter Movement when the character's Class value is a beast of burden (i.e. Draft Horse, Mule, Riding Horse, or War Horse).",
     "license": "MIT",
+    "authors": [
+        {
+            "name": "Justin Freitas"
+        }
+    ],
     "compatibility": {
         "minimum": "12",
         "verified": "12"
