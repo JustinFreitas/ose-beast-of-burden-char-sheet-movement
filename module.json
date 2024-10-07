@@ -2,7 +2,7 @@
     "name": "ose-beast-of-burden-char-sheet-movement",
     "title": "OSE Beast of Burden Character Sheet Movement Updater",
     "version": "1.0.0",
-    "description": "Updates the Exploration Movement and Encounter Movement for character sheets whose Class is a beast of burden (i.e. Riding Horse or Mule).",
+    "description": "A Foundry VTT module to update the OSE system character sheet for Overland Movement, Exploration Movement, and Encounter Movement when the character's Class value is a beast of burden (i.e. Draft Horse, Mule, Riding Horse, or War Horse).",
     "license": "MIT",
     "compatibility": {
         "minimum": "12",
@@ -11,5 +11,8 @@
     "scripts": [
         "scripts/ose-beast-of-burden-char-sheet-movement.js"
     ],
-    "system": ["ose"]
+    "system": ["ose"],
+    "url": "https://github.com/JustinFreitas/ose-beast-of-burden-char-sheet-movement/",
+    "manifest": "https://raw.githubusercontent.com/JustinFreitas/ose-beast-of-burden-char-sheet-movement/master/module.json",
+    "download": "https://github.com/JustinFreitas/ose-beast-of-burden-char-sheet-movement/releases/download/1.0.0/ose-beast-of-burden-char-sheet-movement.zip"
 }
